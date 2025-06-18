@@ -1,0 +1,13 @@
+Smartphone,800.00,0,Mobile Devices
+Tablet,500.00,0,Mobile Devices
+Smartwatch,200.00,0,Mobile Devices
+Headset,70.00,82,Mobile Devices
+Charger,20.00,8,Mobile Devices
+Laptop,1000.00,12,Computers
+Mouse,25.00,7,Computers
+Keyboard,45.00,9,Computers
+Hard Drive,100.00,10,Computers
+Headphones,50.00,10,Audio & Video
+Soundbar,300.00,10,Audio & Video
+Speaker,100.00,10,Audio & Video
+Camera,400.00,22,Audio & Video

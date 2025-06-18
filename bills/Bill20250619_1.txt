@@ -1,0 +1,6 @@
+Bill Number: Bill20250619_1
+Items Purchased:
+- Headset x1 = $70.00
+- Charger x1 = $20.00
+Total Amount: $90.00
+Generated on: 2025-06-19 01:25:49

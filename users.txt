@@ -1,0 +1,6 @@
+cashier1,12345,Cashier,Mobile Devices
+cashier2,12345,Cashier,Computers
+cashier3,12345,Cashier,Audio & Video
+manager1,54321,Manager,Computers
+manager2,54321,Manager,Mobile Devices;Audio & Video
+admin,123,Administrator
