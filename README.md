@@ -17,17 +17,17 @@
 
 Below is the list of users with their roles and passwords. Use these to log in to the application:
 
-Cashiers:
-Username: cashier1, Password: 12345 (Manages Mobile Devices)
-Username: cashier2, Password: 12345 (Manages Computers)
-Username: cashier3, Password: 12345 (Manages Audio & Video)
+### Cashiers:
+- **Username:** `cashier1`, **Password:** `12345` _(Manages Mobile Devices)_
+- **Username:** `cashier2`, **Password:** `12345` _(Manages Computers)_
+- **Username:** `cashier3`, **Password:** `12345` _(Manages Audio & Video)_
 
-Managers:
-Username: manager1, Password: 54321 (Manages Computers)
-Username: manager2, Password: 54321 (Manages Mobile Devices and Audio & Video)
+### Managers:
+- **Username:** `manager1`, **Password:** `54321` _(Manages Computers)_
+- **Username:** `manager2`, **Password:** `54321` _(Manages Mobile Devices and Audio & Video)_
 
-Administrator:
-Username: admin, Password: 123 (All, has full access to the system)
+### Administrator:
+- **Username:** `admin`, **Password:** `123` _(Full access to the system)_
 
 ---
 
