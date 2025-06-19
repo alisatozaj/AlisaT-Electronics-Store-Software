@@ -1,7 +1,19 @@
-# Electronics Store Management Software
+# Electronics Store Management Software — JavaFX Desktop Application
+
+> A desktop application for managing an electronics store, built with **Java**, **JavaFX**, and **Maven**.  
+> Includes features for inventory, billing, and employee management — all in a modern GUI.
 
 ---
-### USERNAMES & PASSWORDS
+
+## Tech Stack
+
+- Java 21
+- JavaFX 21
+- Maven
+
+---
+
+## USERNAMES & PASSWORDS
 
 Below is the list of users with their roles and passwords. Use these to log in to the application:
 
@@ -18,7 +30,8 @@ Administrator:
 Username: admin, Password: 123 (All, has full access to the system)
 
 ---
-### HOW TO USE THE SOFTWARE
+
+## HOW TO USE THE SOFTWARE
 
 1. Login:
 Use the provided usernames and passwords to log in. Each user sees a dashboard based on their role.
@@ -42,14 +55,40 @@ View detailed reports on sales and expenses.
 Click the red "Logout" button to return to the login screen.
 
 ---
-### SOFTWARE DESIGN
 
-DESIGN & ORGANIZATION
-We organized it into models, controllers, and views for easy maintenance.
+## FILES
+- users.txt: Stores usernames, passwords, and roles
+- inventory.txt: Tracks inventory details (name, price, quantity, sector)
+- bills/: Directory which stores the bills in txt format
 
-FILES
-users.txt: Stores usernames, passwords, and roles
-inventory.txt: Tracks inventory details (name, price, quantity, sector)
-bills/: Directory which stores the bills in txt format
+---
+
+## Screenshots
+![Login](screenshots/E_login.png)
+
+![Cashier](screenshots/E_cashierDashboard.png)
+
+![Manager](screenshots/E_managerDashboard.png)
+
+![Manager](screenshots/E_managerDashboard1.png)
+
+![Admin](screenshots/E_adminDashboard.png)
+
+---
+
+## How to Run
+
+### Prerequisites
+
+- JDK 21 (or higher)
+- [Apache Maven](https://maven.apache.org/download.cgi)
+- JavaFX (added automatically via Maven)
+
+---
+
+### Run the project using Maven
+mvn clean javafx:run
+
+
 
 
