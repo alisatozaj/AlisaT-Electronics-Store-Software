@@ -2,6 +2,7 @@
 
 > A desktop application for managing an electronics store, built with **Java**, **JavaFX**, and **Maven**.  
 > Includes features for inventory, billing, and employee management — all in a modern GUI.
+> This project was built by [alisa tozaj](https://github.com/alisatozaj). Do NOT copy or reuse without permission.
 
 ---
 
